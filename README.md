@@ -1,0 +1,2 @@
+# smac
+原有环境上添加了matrix_game_1、matrix_game_2、matrix_game_3和mmdp_game_1这4个多智能体博弈环境的smac库
